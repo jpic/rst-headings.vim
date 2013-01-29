@@ -61,6 +61,16 @@ to my ``.vimrc`` and run
 
 in my VIM.
 
+Users of Pathogen__ can install by adding rst-headings.vim repository as
+submodule
+
+__ https://github.com/tpope/vim-pathogen
+
+::
+
+    cd ~/.vim
+    git submodule add http://github.com/tobyS/rst-headings.vim.git bundle/rst-headings  
+
 -------------
 Configuration
 -------------
